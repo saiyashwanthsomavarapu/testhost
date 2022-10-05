@@ -1,0 +1,1 @@
+window.ENV = { API_ENDPOINT: "" }; 

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="52px" viewBox="0 0 61 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 14</title>
+    <defs>
+        <polygon id="path-1" points="0 51.189 60.074 51.189 60.074 0 0 0"></polygon>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Client-Hub/Guided/Tiled-Service-Request-V3" transform="translate(-1039.000000, -550.000000)">
+            <g id="Service-Request-Tiles" transform="translate(320.000000, 475.000000)">
+                <g id="Loan-Provision-Tiles" transform="translate(649.000000, 0.000000)">
+                    <g id="Group-14" transform="translate(70.000000, 75.000000)">
+                        <path d="M24.6428,44.1875 L24.6428,43.3575 C24.6428,40.5785 28.2578,39.7595 28.4118,39.7275 L28.5878,39.7075 L39.2978,39.7045 C39.7488,39.7215 40.9068,39.6555 41.4948,39.0965 C41.7548,38.8505 41.8748,38.5345 41.8748,38.1015 C41.8748,36.7505 41.0218,36.0245 40.3068,35.6515 C40.1418,35.5675 39.9598,35.5235 39.7668,35.5235 L29.5988,35.5235 C28.7568,35.5235 27.9058,35.3375 27.1368,34.9835 L19.9478,31.6715 C19.7478,31.5785 19.5318,31.5325 19.3078,31.5325 L10.1358,31.5325" id="Stroke-1" stroke="#065F9F" stroke-width="1.219"></path>
+                        <path d="M10.1844,44.2499 L16.3624,44.2989 L30.7714,49.4589 C30.8954,49.5139 32.9704,50.5789 34.9704,50.5789 C36.8844,50.5789 38.1674,49.6779 38.1794,49.6679 L57.0504,37.2379 C57.6724,36.8909 59.1944,35.8239 59.4334,34.6669 C59.5294,34.2009 59.4024,33.7489 59.0434,33.2849 C57.4404,31.2039 53.1664,34.1529 53.1234,34.1839 C52.7484,34.4199 46.0644,37.9929 40.5424,39.6089" id="Stroke-3" stroke="#065F9F" stroke-width="1.219"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-6"></g>
+                        <polygon id="Stroke-5" stroke="#065F9F" stroke-width="1.219" mask="url(#mask-2)" points="0.61 49.997 9.957 49.997 9.957 25.71 0.61 25.71"></polygon>
+                        <line x1="5.2929" y1="48.5087" x2="5.2929" y2="33.5917" id="Stroke-7" stroke="#065F9F" stroke-width="1.219" mask="url(#mask-2)"></line>
+                        <path d="M20.3099,31.6586 L20.3099,24.9326 C20.3099,17.6006 26.2739,11.6376 33.6049,11.6376 C40.9359,11.6376 46.8999,17.6006 46.8999,24.9326 L46.8999,37.7236" id="Stroke-8" stroke="#065F9F" stroke-width="1.219" mask="url(#mask-2)"></path>
+                        <polyline id="Stroke-9" stroke="#065F9F" stroke-width="1.219" mask="url(#mask-2)" points="31.9601 11.8198 30.5991 0.6098 38.4331 0.6098 36.9611 11.7708"></polyline>
+                        <polyline id="Stroke-10" stroke="#065F9F" stroke-width="1.219" mask="url(#mask-2)" points="28.2769 12.5863 26.6029 4.4623 31.0619 4.0883"></polyline>
+                        <path d="M37.2712,21.1585 C37.2712,19.5115 35.7612,18.1755 33.8982,18.1755 C32.0362,18.1755 30.5262,19.5115 30.5262,21.1585 C30.5262,22.7925 32.1962,23.3795 33.8882,24.1325 C35.5792,24.8845 37.2502,25.4585 37.2502,27.1055 C37.2502,28.7525 35.7402,30.0885 33.8782,30.0885 C32.0152,30.0885 30.5052,28.7525 30.5052,27.1055" id="Stroke-11" stroke="#1094D2" stroke-width="1.219" mask="url(#mask-2)"></path>
+                        <line x1="33.9037" y1="18.2078" x2="33.9037" y2="16.4318" id="Stroke-12" stroke="#1094D2" stroke-width="1.219" mask="url(#mask-2)"></line>
+                        <line x1="33.9037" y1="30.0194" x2="33.9037" y2="31.7904" id="Stroke-13" stroke="#1094D2" stroke-width="1.219" mask="url(#mask-2)"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
