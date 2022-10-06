@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/testhost/static/css/main.fd711e39.css",
+    "main.js": "/testhost/static/js/main.3a874eb4.js",
+    "static/js/787.d6b2b1d6.chunk.js": "/testhost/static/js/787.d6b2b1d6.chunk.js",
+    "static/media/ContributionIcon.svg": "/testhost/static/media/ContributionIcon.80562572dd767873a3b09d422a84243d.svg",
+    "static/media/UnsureIcon.svg": "/testhost/static/media/UnsureIcon.1f549bfa663fdf209738a89214f48ada.svg",
+    "static/media/Hand.svg": "/testhost/static/media/Hand.d23627d3847084a8f52793fa89c215e2.svg",
+    "static/media/RolloverIcon.svg": "/testhost/static/media/RolloverIcon.7a680a5e1ff25415c65f342c58b190d3.svg",
+    "static/media/LoanIcon.svg": "/testhost/static/media/LoanIcon.87e7fb010aff6653d73f6c576257d71c.svg",
+    "static/media/ContactsIcon.svg": "/testhost/static/media/ContactsIcon.00d03f4e6954a98c9522615771d5dc40.svg",
+    "static/media/PlanDetailsIcon.svg": "/testhost/static/media/PlanDetailsIcon.eb14ecd31fb91329c52e425c7422f297.svg",
+    "static/media/Approval.svg": "/testhost/static/media/Approval.849cade5a07b0a1082acba1c369ea273.svg",
+    "static/media/Draft.svg": "/testhost/static/media/Draft.70f24a0ecccf45b7ac26fcdc8d639864.svg",
+    "static/media/Submit.svg": "/testhost/static/media/Submit.3190f2c9ee8324f85a4c4092ec2dbdc4.svg",
+    "index.html": "/testhost/index.html",
+    "main.fd711e39.css.map": "/testhost/static/css/main.fd711e39.css.map",
+    "main.3a874eb4.js.map": "/testhost/static/js/main.3a874eb4.js.map",
+    "787.d6b2b1d6.chunk.js.map": "/testhost/static/js/787.d6b2b1d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd711e39.css",
+    "static/js/main.3a874eb4.js"
+  ]
+}

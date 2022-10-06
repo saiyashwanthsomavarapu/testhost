@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="99px" viewBox="0 0 82 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Hand Icon</title>
+    <defs>
+        <filter x="-3.9%" y="-3.9%" width="107.8%" height="107.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Client-Hub/Guided/Home-V3" transform="translate(-432.000000, -575.000000)" stroke-width="1.867776">
+            <g id="Initiate-Request" transform="translate(320.000000, 488.000000)" filter="url(#filter-1)">
+                <g id="Hand-Icon" transform="translate(122.780767, 96.000000)">
+                    <path d="M50.5191699,39.68 C50.5191699,36.7294145 52.9629577,34.56 55.7879532,34.56 C58.6129486,34.56 60.7509005,36.7294145 60.7509005,39.68" id="Stroke-1" stroke="#005A98"></path>
+                    <path d="M39.6479561,37.12 C39.6479561,34.4053972 42.0917439,32 44.9167394,32 C47.7417348,32 49.8796868,34.4053972 49.8796868,37.12" id="Stroke-3" stroke="#005A98"></path>
+                    <path d="M28.1372592,33.28 C28.1372592,30.5653972 30.581047,28.16 33.4060424,28.16 C36.2310379,28.16 38.3689898,30.5653972 38.3689898,33.28" id="Stroke-5" stroke="#005A98"></path>
+                    <line x1="38.3689898" y1="32" x2="38.3689898" y2="37.12" id="Stroke-7" stroke="#005A98"></line>
+                    <line x1="50.5191699" y1="37.12" x2="50.5191699" y2="42.24" id="Stroke-9" stroke="#005A98"></line>
+                    <path d="M17.9055286,52.48 L17.9055286,15.9271102 C17.9055286,13.1262177 19.7840274,10.6203194 22.3800083,10.2818523 C25.4919966,9.87662339 28.1372592,12.4679148 28.1372592,15.7206143 L28.1372592,36.0410586" id="Stroke-11" stroke="#005A98"></path>
+                    <path d="M18.4913474,53.7093579 L11.0014364,36.6084154 C9.78905793,33.8377509 6.48257128,32.539629 3.61375484,33.7111802 C0.74653574,34.8811878 -0.477024056,37.2073111 0.16829991,38.7277036 C2.90773209,45.1828116 8.78593058,59.0778098 11.469456,65.4171519 C11.4774427,65.4387615 11.4870267,65.4603712 11.4966107,65.4819808 C12.779272,68.4934384 14.6912838,71.2177966 16.956307,73.6288149 L23.0213939,79.36" id="Stroke-13" stroke="#005A98"></path>
+                    <path d="M53.0771026,75.52 C53.0771026,72.5157578 53.7264909,71.5940194 54.9730844,68.9053555 L58.8549187,60.5378458 C60.1015123,57.8507441 60.7509005,54.8871209 60.7509005,51.8813164 L60.7509005,39.68" id="Stroke-15" stroke="#005A98"></path>
+                    <line x1="23.6608771" y1="0" x2="23.6608771" y2="7.68" id="Stroke-17" stroke="#009CDC"></line>
+                    <line x1="15.3475959" y1="2.56" x2="19.1844949" y2="8.96" id="Stroke-19" stroke="#009CDC"></line>
+                    <line x1="10.2317306" y1="7.68" x2="16.6265623" y2="11.52" id="Stroke-21" stroke="#009CDC"></line>
+                    <line x1="7.67379796" y1="16" x2="15.3475959" y2="16" id="Stroke-23" stroke="#009CDC"></line>
+                    <line x1="30.6951919" y1="16" x2="38.3689898" y2="16" id="Stroke-25" stroke="#009CDC"></line>
+                    <line x1="30.6951919" y1="11.52" x2="37.0900235" y2="7.68" id="Stroke-27" stroke="#009CDC"></line>
+                    <line x1="26.8582929" y1="8.96" x2="30.6951919" y2="2.56" id="Stroke-29" stroke="#009CDC"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
