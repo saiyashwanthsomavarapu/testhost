@@ -96,11 +96,11 @@ const Dashboard = (props: DashboardProps) => {
   return (
     <div>
       <DisclosurePopup open={disclosureOpen} onClose={handleDisclosureClose} />
-      <Header heading={DashboadHeading.heading} subHeading={DashboadHeading.subheading}/>
+      {/* <Header heading={DashboadHeading.heading} subHeading={DashboadHeading.subheading}/> */}
       <div className="container">
       {WelcomeText}
       {RequestCardRow}
-      <p className='endText'>For plan  <Link href={InstructionsLink}>handouts and instructions</Link>, or <Link href={InstructionsLink}> installation files</Link>, please visit our online forms site to download.</p>
+      {/* <p className='endText'>For plan  <Link href={InstructionsLink}>handouts and instructions</Link>, or <Link href={InstructionsLink}> installation files</Link>, please visit our online forms site to download.</p> */}
       </div>
     </div>
   )

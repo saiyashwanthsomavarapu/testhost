@@ -29,7 +29,7 @@ const Home = () => {
   const classes = useStyles();
   return (
     <React.Fragment>
-      <Header heading={"Service Request Center"} subHeading={"Service as a Request"} />
+      {/* <Header heading={"Service Request Center"} subHeading={"Service as a Request"} /> */}
       <div className={classes.root}>
         <Typography variant='h5' className={classes.header}>What type of Service Request are you looking for?</Typography>
         <Grid container spacing={1} className={classes.cardContainer}>

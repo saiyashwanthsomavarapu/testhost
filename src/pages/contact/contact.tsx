@@ -115,7 +115,7 @@ const ContactChange = () => {
     return (
         <React.Fragment>
             <Model open={openModal} onClose={()=>{setOpenModel(!openModal)}}></Model>
-            <Header heading={"Service Request Center"} subHeading={"Service as a Request"} />
+            {/* <Header heading={"Service Request Center"} subHeading={"Service as a Request"} /> */}
             <div className={classes.root}>
                 <h4 className={classes.heading}>Update Contact</h4>
                 <Alert className={classes.errorMessage} variant="filled" severity="error">
